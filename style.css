@@ -4,12 +4,10 @@
   }
   h1 {
   text-shadow: 4px 4px purple;
+    h2 {
+  text-shadow: 4px 4px indigo;
 }
   body {
-   h1 {
-  text-shadow: 4px 4px purple;
-     h2 {
-  text-shadow: 4px 4px indigo;
    text-shadow: 4px 4px purple;
    background-attachment: fixed;
     font-family: sans-serif;
