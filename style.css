@@ -2,7 +2,9 @@
     height: 100%;
     margin: 10%;
   }
-  
+  h1 {
+  text-shadow: 2px 2px red;
+}
   body {
     background-attachment: fixed;
     font-family: sans-serif;
