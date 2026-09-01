@@ -6,7 +6,8 @@
   text-shadow: 4px 4px purple;
 }
   body {
-    background-attachment: fixed;
+   text-shadow: 4px 4px purple;
+   background-attachment: fixed;
     font-family: sans-serif;
     color: white; 
 
