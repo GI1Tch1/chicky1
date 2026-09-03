@@ -1,0 +1,47 @@
+ html, body {
+    height: 100%;
+    margin: 10%;
+  }
+  
+  body {
+    background-attachment: fixed;
+    font-family: sans-serif;
+    color: white; 
+
+     background-image: repeating-radial-gradient(
+      circle,
+      #53225C calc(0% + var(--offset)),
+      #53225C calc(15% + var(--offset)),
+      #E889BA calc(15% + var(--offset)),
+      #E889BA calc(30% + var(--offset))  
+    );
+    
+    animation: moveInward 10s linear infinite;
+  }
+
+  @keyframes moveInward {
+    0% {
+      --offset: 30%;
+    }
+    100% {
+      --offset: 0%;
+    }
+  }
+</style>
+<title>you will DIE</title>
+</head>
+<body>
+
+<h1 style="color:pink;">chicky baby</h1>
+
+<h2 style="color:blue;">text, but it is BLUE <h2>
+
+<button onclick="window.close()">click me and something horrible happens</button>
+
+
+<p style="color:pink;">chaky</p>
+
+<img  style="margin-bottom: 1000px; " src="chickygif.gif" alt="chicky baby" width="500" height="333">
+
+</body>
+</html>
