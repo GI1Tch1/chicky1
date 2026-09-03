@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
     height: 100%;
     margin: 10%;
@@ -27,23 +27,4 @@ img {
 	
     }
  
-=======
- html, body {
-    height: 100%;
-    margin: 10%;
-  }
-  h1 {
-  text-shadow: 4px 4px purple;
-  }
-   h2 {
-  text-shadow: 4px 4px indigo;
-    }
 
-  @keyframes moveInward {
-    0% {
-      --offset: 30%;
-    }
-    100% {
-      --offset: 0%;
-    }
->>>>>>> 94cbdd2b94ff7322bf80df4e96e712b2e4930391
